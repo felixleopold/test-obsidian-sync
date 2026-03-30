@@ -1,7 +1,7 @@
 ---
 - test-obsidian-sync
 ---
-Some test changes!!!
+Some test changes!!! That change form Github
 
 # AwesomeProject
 
@@ -13,7 +13,7 @@ Some test changes!!!
 
 > A blazing-fast, zero-config build tool for modern JavaScript projects.
 
-![hero-banner.jpeg](assets/images/hero-banner.jpeg.md)
+![Hero Banner](assets/images/hero-banner.jpeg)
 
 ---
 
