@@ -8,7 +8,7 @@
 
 > A blazing-fast, zero-config build tool for modern JavaScript projects.
 
-![Hero Banner](assets/images/hero-banner.jpg)
+![Hero Banner](assets/images/hero-banner.jpeg)
 
 ---
 
