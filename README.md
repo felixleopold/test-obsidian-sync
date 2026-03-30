@@ -1,14 +1,14 @@
 # AwesomeProject
 
-[![CI](https://github.com/awesomeorg/awesomeproject/actions/workflows/ci.yml/badge.svg)](https://github.com/awesomeorg/awesomeproject/actions)
+[![CI](https://img.shields.io/badge/CI-passing-brightgreen.svg)](https://github.com/awesomeorg/awesomeproject/actions)
 [![npm version](https://img.shields.io/npm/v/awesomeproject.svg)](https://www.npmjs.com/package/awesomeproject)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Coverage](https://img.shields.io/codecov/c/github/awesomeorg/awesomeproject)](https://codecov.io/gh/awesomeorg/awesomeproject)
-[![Downloads](https://img.shields.io/npm/dm/awesomeproject)](https://www.npmjs.com/package/awesomeproject)
+[![Coverage](https://img.shields.io/badge/Coverage-92%25-brightgreen.svg)](https://codecov.io/gh/awesomeorg/awesomeproject)
+[![Downloads](https://img.shields.io/badge/Downloads-1.2M-blue.svg)](https://www.npmjs.com/package/awesomeproject)
 
 > A blazing-fast, zero-config build tool for modern JavaScript projects.
 
-![Hero Banner](assets/images/hero-banner.png)
+![Hero Banner](assets/images/hero-banner.jpg)
 
 ---
 
