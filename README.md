@@ -1,6 +1,3 @@
----
-- test-obsidian-sync
----
 Some test changes!!! That change form Github
 
 # AwesomeProject
