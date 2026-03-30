@@ -1,3 +1,8 @@
+---
+- test-obsidian-sync
+---
+Some test changes!!!
+
 # AwesomeProject
 
 [![CI](https://img.shields.io/badge/CI-passing-brightgreen.svg)](https://github.com/awesomeorg/awesomeproject/actions)
@@ -8,7 +13,7 @@
 
 > A blazing-fast, zero-config build tool for modern JavaScript projects.
 
-![Hero Banner](assets/images/hero-banner.jpeg)
+![hero-banner.jpeg](assets/images/hero-banner.jpeg.md)
 
 ---
 
@@ -58,7 +63,7 @@ It was originally created by [@leopoldmac](https://github.com/leopoldmac) and is
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![Light mode screenshot](assets/images/screenshot-light.png) | ![Dark mode screenshot](assets/images/screenshot-dark.png) |
+| ![screenshot-light.png](assets/images/screenshot-light.png.md) | ![screenshot-dark.png](assets/images/screenshot-dark.png.md) |
 
 See more screenshots in the [assets/images/](assets/images/) directory.
 
