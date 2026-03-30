@@ -1,3 +1,6 @@
+---
+last-synced: 2026-03-30T13:16:40.076Z
+---
 # Changelog
 
 All notable changes to this project will be documented in this file.
@@ -8,7 +11,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Added
 - Dark mode support
 - Plugin API v2
-
+Some Change
 ---
 
 ## [2.1.0] - 2026-02-14
