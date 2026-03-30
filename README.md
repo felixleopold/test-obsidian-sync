@@ -1,6 +1,6 @@
 No this line is the best.
 Test Change form Github!
-Github
+Obsidian
 # AwesomeProject
 
 [![CI](https://img.shields.io/badge/CI-passing-brightgreen.svg)](https://github.com/awesomeorg/awesomeproject/actions)
@@ -11,7 +11,7 @@ Github
 
 > A blazing-fast, zero-config build tool for modern JavaScript projects.
 
-![Hero Banner](assets/images/hero-banner.jpeg)
+![hero-banner.jpeg](assets/images/hero-banner.jpeg.md)
 
 ---
 
@@ -62,7 +62,7 @@ Muyhahah
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![screenshot-light.png](assets/images/screenshot-light.png.md) | ![screenshot-dark.png](assets/images/screenshot-dark.png.md) |
+| ![screenshot-light.png.md](assets/images/screenshot-light.png.md) | ![screenshot-dark.png.md](assets/images/screenshot-dark.png.md) |
 
 See more screenshots in the [assets/images/](assets/images/) directory.
 
