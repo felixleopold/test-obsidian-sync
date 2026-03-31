@@ -1,6 +1,8 @@
 No this line is the best.
 Test Change form Github!
 Obsidian
+
+Obsidain test
 # AwesomeProject
 
 [![CI](https://img.shields.io/badge/CI-passing-brightgreen.svg)](https://github.com/awesomeorg/awesomeproject/actions)
@@ -11,7 +13,7 @@ Obsidian
 
 > A blazing-fast, zero-config build tool for modern JavaScript projects.
 
-![hero-banner.jpeg](assets/images/hero-banner.jpeg.md)
+![hero-banner.jpeg](assets/images/hero-banner.jpeg)
 
 ---
 
